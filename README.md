@@ -2,9 +2,9 @@
 LIFFを使ったアプリケーション
 
 使用したもの
-LIFF（LINE Front-end Framework）
-静的ファイル（netlifyでホスティング）
-Fireabase Firestore（データ永続化で利用）
+- LIFF（LINE Front-end Framework）
+- 静的ファイル（netlifyでホスティング）
+- Fireabase Firestore（データ永続化で利用）
 
 詳細
 https://qiita.com/haruhiko_tano/items/762e0f2528d248fd2e80
